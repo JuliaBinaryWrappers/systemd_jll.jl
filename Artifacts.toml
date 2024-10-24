@@ -1,56 +1,56 @@
 [[systemd]]
 arch = "aarch64"
-git-tree-sha1 = "3eb12582b32463f81a0f611214ddc56b685554ec"
+git-tree-sha1 = "220d88c7cccbd3442861af2d309f044753a23941"
 libc = "glibc"
 os = "linux"
 
     [[systemd.download]]
-    sha256 = "97b20c37c94bb7f585a5abe0728d6c9f8703461d4cba51f0f796b77d25069354"
-    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v252.0.0+0/systemd.v252.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "6901162e58e2b0a4a51ba5d3ab82727041b0d2642cefd4eb9c33ee51f2cf1a7e"
+    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v256.7.0+0/systemd.v256.7.0.aarch64-linux-gnu.tar.gz"
 [[systemd]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a98dab375a757325afc9ed058199d22e73b25b64"
+git-tree-sha1 = "ef454b2d83e23a7f31c6a20ee755e1c406f1459b"
 libc = "glibc"
 os = "linux"
 
     [[systemd.download]]
-    sha256 = "76aef3c0e9b8c21dd74693bab9755d908b94888e2150f159a8a638f3ff1188d8"
-    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v252.0.0+0/systemd.v252.0.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "99e5a475266ec16f6e5c19d527018fd4c4acdde689925f26c85f736905775f16"
+    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v256.7.0+0/systemd.v256.7.0.armv6l-linux-gnueabihf.tar.gz"
 [[systemd]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "25ca2e8c16a87e6a818db5bef33ed842b2a7a0f5"
+git-tree-sha1 = "81f4d830bec33709c00b8be17f2a85d02ffa4d53"
 libc = "glibc"
 os = "linux"
 
     [[systemd.download]]
-    sha256 = "eb85cddc82b970619c3874d9a3db947cdc5c1b52d40f1743904f03f6ec56cf1b"
-    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v252.0.0+0/systemd.v252.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e7a4c87c0b89786657db35b21a82c1e66a8029fbb800e63615bcf364baff4753"
+    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v256.7.0+0/systemd.v256.7.0.armv7l-linux-gnueabihf.tar.gz"
 [[systemd]]
 arch = "i686"
-git-tree-sha1 = "f0157e26ae10bd5037b4ed914291e75e1b534c68"
+git-tree-sha1 = "370ec5cf44047c968c7a22ca877046fa58bc08a2"
 libc = "glibc"
 os = "linux"
 
     [[systemd.download]]
-    sha256 = "eea9c20e5a5b1497f4fe635defe4c9b70aa7c7a05e192dd51d2bc8a1a2db5e69"
-    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v252.0.0+0/systemd.v252.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "05bd734a30dd92fc193dd7695485078c9443b64f8c8e662ff94a6c0941a02181"
+    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v256.7.0+0/systemd.v256.7.0.i686-linux-gnu.tar.gz"
 [[systemd]]
 arch = "powerpc64le"
-git-tree-sha1 = "2b11f1441d610f2e4ffb04e50f83b7726c8adaca"
+git-tree-sha1 = "f4a61d6fd7713559c6aaead38fee58bc1185e4f6"
 libc = "glibc"
 os = "linux"
 
     [[systemd.download]]
-    sha256 = "4090d6f4172109a994661c2552a9251d5754deb0dd07836922cff218aaa16478"
-    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v252.0.0+0/systemd.v252.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ee7ed4c80923c8017ac23980b998eb48e05f2acf72ae9f6d6141fa317446d9c2"
+    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v256.7.0+0/systemd.v256.7.0.powerpc64le-linux-gnu.tar.gz"
 [[systemd]]
 arch = "x86_64"
-git-tree-sha1 = "5606d24024779de477003147bfa001033a6175c9"
+git-tree-sha1 = "3050b6f4023e9b5985a0a4619c0ee89c344600a6"
 libc = "glibc"
 os = "linux"
 
     [[systemd.download]]
-    sha256 = "a6708b468dfe598aa07bb622c8fcdd2d98d646fa29cee4e7826d1565789e3e45"
-    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v252.0.0+0/systemd.v252.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "c14d99faa510c5f4bc837e290e93d5453e62622e9ea6a11703ed84d248205562"
+    url = "https://github.com/JuliaBinaryWrappers/systemd_jll.jl/releases/download/systemd-v256.7.0+0/systemd.v256.7.0.x86_64-linux-gnu.tar.gz"
